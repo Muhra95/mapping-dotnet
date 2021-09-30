@@ -1,0 +1,12 @@
+C:\Users\Mohammad\Desktop\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.deps.json
+C:\Users\Mohammad\Desktop\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.dll
+C:\Users\Mohammad\Desktop\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\bin\Debug\net5.0\ref\MHP.CodingChallenge.Backend.Mapping.Data.dll
+C:\Users\Mohammad\Desktop\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\bin\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.pdb
+C:\Users\Mohammad\Desktop\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.csproj.AssemblyReference.cache
+C:\Users\Mohammad\Desktop\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammad\Desktop\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.AssemblyInfoInputs.cache
+C:\Users\Mohammad\Desktop\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.AssemblyInfo.cs
+C:\Users\Mohammad\Desktop\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\Desktop\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.dll
+C:\Users\Mohammad\Desktop\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\ref\MHP.CodingChallenge.Backend.Mapping.Data.dll
+C:\Users\Mohammad\Desktop\mapping-dotnet\MHP.CodingChallenge.Backend.Mapping.Data\obj\Debug\net5.0\MHP.CodingChallenge.Backend.Mapping.Data.pdb

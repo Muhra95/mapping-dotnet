@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EAkLVPAQ60e3mJ0KNqVdN88DjaLbb9Rq+qhJgAWGFlKVgKfYVsbykcwwDl2LiNJmTnrdwUfmGcFuicqlR7rHmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mohammad\\Desktop\\mapping-dotnet\\MHP.CodingChallenge.Backend.Mapping.Data\\MHP.CodingChallenge.Backend.Mapping.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohammad\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\Mohammad\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
